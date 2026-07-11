@@ -20,4 +20,5 @@ I'm an aspiring Data Analyst currently building projects using:
 ## Goal
 To build real-world data analytics projects, strengthen my analytical skills, and create a portfolio that demonstrates practical experience.
 
+---
 Thank you for visiting my portfolio!
