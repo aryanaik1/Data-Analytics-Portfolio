@@ -12,8 +12,15 @@ I'm an aspiring **Data Analyst** currently building real-world projects using:
 ---
 
 ## Featured Projects
-### SQL Projects
-*Repository coming soon...*
+###  Superstore Sales Analysis
+An end-to-end business analytics project using MySQL, and Power BI.
+
+**Skills Used:**
+- MySQL
+- Power BI
+- Data Visualization
+- Dashboard Design
+🔗 **Repository:** https://github.com/aryanaik1/Superstore-Sales-Analysis
 
 ### Python Data Analytics
 *Repository coming soon...*
