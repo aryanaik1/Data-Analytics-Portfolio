@@ -16,11 +16,17 @@ I'm an aspiring **Data Analyst** currently building real-world projects using:
 An end-to-end retail sales analytics project using MySQL and Power BI to analyze sales performance, profitability, customer segments, and regional trends.
 
 **Skills Used:**
+
 SQL
+
 MySQL
+
 Power BI
+
 DAX
+
 Data Visualization
+
 Business Intelligence
   
 🔗 **Repository:** https://github.com/aryanaik1/Superstore-Sales-Analysis
