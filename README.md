@@ -20,6 +20,7 @@ An end-to-end business analytics project using MySQL, and Power BI.
 - Power BI
 - Data Visualization
 - Dashboard Design
+  
 🔗 **Repository:** https://github.com/aryanaik1/Superstore-Sales-Analysis
 
 ### Python Data Analytics
