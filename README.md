@@ -16,6 +16,7 @@ I'm an aspiring **Data Analyst** currently building real-world projects using:
 An end-to-end retail sales analytics project using MySQL and Power BI to analyze sales performance, profitability, customer segments, and regional trends.
 
 **Skills Used:**
+
 -MySQL
 -SQL
 -Power BI
