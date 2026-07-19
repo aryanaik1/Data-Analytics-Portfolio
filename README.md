@@ -17,12 +17,12 @@ An end-to-end retail sales analytics project using MySQL and Power BI to analyze
 
 **Skills Used:**
 
--MySQL
--SQL
--Power BI
--DAX
--Data Visualization
--Business Intelligence
+MySQL
+SQL
+Power BI
+DAX
+Data Visualization
+Business Intelligence
   
 🔗 **Repository:** https://github.com/aryanaik1/Superstore-Sales-Analysis
 
