@@ -51,7 +51,6 @@ An HR analytics project using Python and Power BI to analyze employee attrition,
 ---
 
 ## Goal
-
 To build practical data analytics projects, solve real-world business problems, and continuously improve my analytical skills.
 
 ---
